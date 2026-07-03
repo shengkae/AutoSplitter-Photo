@@ -1,0 +1,6 @@
+{
+  "name": "AutoSplitter Clone",
+  "description": "Auto crop and split batch photo scans. Uses simple edge detection to split scanned documents into multiple images.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
